@@ -66,7 +66,7 @@ If you've done typesetting before, then you should know what many of the overrid
 ### Resources you'll need
 
 - Aegisub (duh!)
-- K-Timed lyrics (if you don't have any yet, use this as an example)
+- K-Timed lyrics (if you don't have any yet, use [this](https://raw.githubusercontent.com/ahuei123456/KFX-Tutorial/master/files/silent%20blaze.ass) as an example)
 - [Karaoke Templater documentation](https://aeg-dev.github.io/AegiSite/docs/3.2/automation/karaoke_templater/)
 - [Lua documentation](https://www.lua.org/manual/5.2/) (Optional, but knowing Lua can enable a lot of nice effects)
 
