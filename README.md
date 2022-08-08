@@ -94,7 +94,7 @@ Scroll all the way down, and you'll see the syllables again. Except this time, t
 
 ![fade effect](https://i.imgur.com/crLXS4c.png)
 
-There are two other main types of templates (three, but let's do two for now). First is `template line`, which prepends the text to each syllable in your line but in one whole line instead, stripped of all tags. Next is `template char`, which prepends the text to each character of your line. Each has its use, and you'll need them for some effects, but for now, let's focus on `template syl`.
+There are two other main types of templates (three, but let's do two for now). First is `template line`, which prepends the text to each syllable in your line but in one whole line instead, stripped of all other tags. Next is `template char`, which prepends the text to each character of your line. Each has its use, and you'll need them for some effects, but for now, let's focus on `template syl`.
 
 ![template line](https://i.imgur.com/cYqNOEM.png)
 ![template line effect](https://i.imgur.com/Ko3Jv1J.png)
