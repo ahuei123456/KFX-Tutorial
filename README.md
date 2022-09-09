@@ -20,7 +20,7 @@ K-Timing is the act of timing syllables in a song such that they match up with w
 - Aegisub (duh!)
 - A song to K-Time
 - Lyrics
-- [FuwaFuwaTime Karaoke Timer](https://nanodesu.moe/karaoke-timer/) by gacha4life (Optional but strongly recommended)
+- [FuwaFuwaTime Karaoke Timer](https://nanodesu.moe/karaoke-timer/) by gacha4life
 
 ### Instructions
 
@@ -39,7 +39,7 @@ K-Timing is the act of timing syllables in a song such that they match up with w
 
 Unless you have a song that's super straightforward and you managed to time perfectly, chances are that your timing is off in certain points (or all of it). No problem, that's what Aegisub is for! Load the song's audio in, then start inspecting the lines and syllables.
 
-- Open Aegisub's Karaoke Editor mode to see the individual timings of each syllable relative to the audio. You can also use the Karaoke Editor to join together syllables, split syllables, and also modify their durations by dragging around the markers. Remember to commit before moving onto the next line!
+- Click on the mic icon on the far right of the list of icons under the audio graph preview on the right. This will open Aegisub's Karaoke Editor mode, where you'll be able to see the individual timings of each syllable relative to the audio. You can also use the Karaoke Editor to join together syllables, split syllables, and also modify their durations by clicking and dragging around the markers. Remember to commit before moving onto the next line!
 ![Silent Blaze Karaoke](https://i.imgur.com/qVAjGkl.png)
 - For any lines that are wrongly timed, go ahead and retime them. Then, you can open Karaoke Editor and fix the syllable timings if they are off.
 - Load a dummy video that's around the length of the song and give the timings a watch-over. The effect will be super basic but what's more important are the timings, so if you spot anything off, go back and fix them.
